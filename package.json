@@ -10,5 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "node-opencc": "^2.0.1"
+  },
+  "devDependencies": {
+    "iconv-lite": "^0.4.21",
+    "jschardet": "^1.6.0"
   }
 }
